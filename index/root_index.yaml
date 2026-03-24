@@ -317,3 +317,8 @@ schools:
     name: "桂林医科大学"
     initial: "G"
     resource_folder: "GLMU"
+
+  - id: "NJFU"
+    name: "南京林业大学"
+    initial: "N"
+    resource_folder: "NJFU"
