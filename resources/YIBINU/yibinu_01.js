@@ -560,7 +560,7 @@ async function runImportFlow() {
     if(needExp === null) return;
     if (needExp === 0) {
         // 将数据传递给实验课页面
-        await reminderMotion();
+        if(!await reminderMotion()) return;
         const params = {
             theoryCourses,
             yearTerm,
