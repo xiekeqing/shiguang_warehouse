@@ -395,4 +395,4 @@ schools:
   - id: "NBUT"
     name: "宁波工程学院"
     initial: "N"
-    resource_folder: "CUPK"
+    resource_folder: "NBUT"
