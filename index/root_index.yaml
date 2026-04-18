@@ -396,3 +396,9 @@ schools:
     name: "宁波工程学院"
     initial: "N"
     resource_folder: "NBUT"
+  
+  - id: "HUAYU"
+    name: "山东华宇工学院"
+    initial: "S"
+    resource_folder: "HUAYU"
+
